@@ -1,6 +1,6 @@
 var CACHE_NAME = 'latihan-pwa-cache-v1';
 
-var urlToCache = [
+var urlsToCache = [
     '/',
     '/css/main.css',
     '/css/util.css',  
